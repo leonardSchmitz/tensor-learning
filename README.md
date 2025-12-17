@@ -1,14 +1,14 @@
-# optimization-of-tensor-learning
+# An Efficient Algorithm for Tensor Learning
 
-This is the companion package to the article  "Optimization of Tensor Learning" [[1]](#1) 
+This is the companion package to the article [[1]](#1) 
 in the computer algebra system [OSCAR](https://www.oscar-system.org). 
 
 ## Reference
 
 <a id="1">[1]</a>
-C. Amendola, L. Schmitz </br>
-[Learning barycenters from signature matrices](https://arxiv.org/abs/2509.07815v1) </br>
-arXiv:2509.07815, 2025. 
+Leonard Schmitz </br>
+[An Efficient Algorithm for Tensor Learning](https://arxiv.org/abs/2512.14218) </br>
+arXiv:2512.14218, 2025. 
 
 ## Contact
 
